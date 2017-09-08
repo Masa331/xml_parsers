@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root xmlns:wb="http://www.worldbank.org">
+  <data>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1991</field>
+      <field name="Value">117021.304</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1992</field>
+      <field name="Value">121447.373</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1993</field>
+      <field name="Value">118609.115</field>
+    </record>
+    </data>
+</Root>
